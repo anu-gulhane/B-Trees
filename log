@@ -1,0 +1,1807 @@
+BPTree insert key
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+potential split node ptr -
+BPTree insert key
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+potential split node ptr -
+BPTree insert key
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+potential split node ptr -
+BPTree insert key
+insert key function in leaf node
+leaf node is full
+1
+2
+3
+inserting key into new node 3
+erasing data pointer
+4
+inserting key into new node 4
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return tuidn3
+potential split node ptr tuidn3
+it is not null
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 2
+next node pointer index 1
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 2
+next node pointer index 1
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+3
+4
+5
+inserting key into new node 5
+erasing data pointer
+6
+inserting key into new node 6
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return aatob6
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 4
+size 2
+sd 2
+internal node size 3
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 2
+keys : 4
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 2
+keys : 4
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+5
+6
+7
+inserting key into new node 7
+erasing data pointer
+8
+inserting key into new node 8
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return lyjxt7
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 6
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 2
+keys : 4
+keys : 6
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 2
+keys : 4
+keys : 6
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+7
+8
+9
+inserting key into new node 9
+erasing data pointer
+10
+inserting key into new node 10
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return xchgh9
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 8
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+potential split node ptr utrdm10
+it is not null
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 4
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 6
+keys : 8
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 4
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 6
+keys : 8
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+9
+10
+11
+inserting key into new node 11
+erasing data pointer
+12
+inserting key into new node 12
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return mtmfh12
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 10
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 4
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 6
+keys : 8
+keys : 10
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 4
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 6
+keys : 8
+keys : 10
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+11
+12
+13
+inserting key into new node 13
+erasing data pointer
+14
+inserting key into new node 14
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return cqoty14
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 12
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 8
+size 2
+sd 2
+internal node size 3
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 4
+keys : 8
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 10
+keys : 12
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 4
+keys : 8
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 10
+keys : 12
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+13
+14
+15
+inserting key into new node 15
+erasing data pointer
+16
+inserting key into new node 16
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return kerdi16
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 14
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 4
+keys : 8
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 10
+keys : 12
+keys : 14
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 4
+keys : 8
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 10
+keys : 12
+keys : 14
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+15
+16
+17
+inserting key into new node 17
+erasing data pointer
+18
+inserting key into new node 18
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return lnoxs18
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 16
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 12
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 4
+keys : 8
+keys : 12
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 14
+keys : 16
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 4
+keys : 8
+keys : 12
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 14
+keys : 16
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+17
+18
+19
+inserting key into new node 19
+erasing data pointer
+20
+inserting key into new node 20
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return zhanc20
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 18
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 4
+keys : 8
+keys : 12
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 14
+keys : 16
+keys : 18
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys3
+keys : 4
+keys : 8
+keys : 12
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 14
+keys : 16
+keys : 18
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+19
+20
+21
+inserting key into new node 21
+erasing data pointer
+22
+inserting key into new node 22
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return tndnq22
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 20
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 16
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+potential split node ptr makay24
+it is not null
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 12
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 18
+keys : 20
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 12
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 18
+keys : 20
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+21
+22
+23
+inserting key into new node 23
+erasing data pointer
+24
+inserting key into new node 24
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return vpmvf26
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 22
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 12
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 18
+keys : 20
+keys : 22
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 12
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 18
+keys : 20
+keys : 22
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+23
+24
+25
+inserting key into new node 25
+erasing data pointer
+26
+inserting key into new node 26
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return uhlxu28
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 24
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 20
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 12
+keys : 16
+keys : 20
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 22
+keys : 24
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 12
+keys : 16
+keys : 20
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 22
+keys : 24
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+25
+26
+27
+inserting key into new node 27
+erasing data pointer
+28
+inserting key into new node 28
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return mhbwj30
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 26
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 12
+keys : 16
+keys : 20
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 22
+keys : 24
+keys : 26
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys1
+keys : 8
+next node pointer index 1
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 12
+keys : 16
+keys : 20
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 22
+keys : 24
+keys : 26
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+27
+28
+29
+inserting key into new node 29
+erasing data pointer
+30
+inserting key into new node 30
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return lhhxc32
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 28
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 24
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 16
+size 2
+sd 2
+internal node size 3
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 20
+keys : 24
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 26
+keys : 28
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 20
+keys : 24
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 26
+keys : 28
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+29
+30
+31
+inserting key into new node 31
+erasing data pointer
+32
+inserting key into new node 32
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return eloui35
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 30
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 20
+keys : 24
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 26
+keys : 28
+keys : 30
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 20
+keys : 24
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 26
+keys : 28
+keys : 30
+next node pointer index 3
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+31
+32
+33
+inserting key into new node 33
+erasing data pointer
+34
+inserting key into new node 34
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return ywihj37
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 32
+size 4
+sd 4
+internal node size 5
+internal node is full
+split index 2
+insertion to internal node is done
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 28
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 20
+keys : 24
+keys : 28
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 30
+keys : 32
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+BPTree insert key
+internal node insert keyy
+internode number of keys2
+keys : 8
+keys : 16
+next node pointer index 2
+before insert function in the next node
+internal node insert keyy
+internode number of keys3
+keys : 20
+keys : 24
+keys : 28
+next node pointer index 3
+before insert function in the next node
+internal node insert keyy
+internode number of keys2
+keys : 30
+keys : 32
+next node pointer index 2
+before insert function in the next node
+insert key function in leaf node
+leaf node is full
+33
+34
+35
+inserting key into new node 35
+erasing data pointer
+36
+inserting key into new node 36
+erasing data pointer
+out of the loop
+old node size 2
+new node size 2
+before dump
+key added successfully
+pointer to return vyeti39
+after insert function in the next node
+leaf is splitted
+key to be added in the internal node 34
+size 3
+sd 3
+internal node size 4
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+after insert function in the next node
+insertion to internal node is done
+potential split node ptr -
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys3
+20 28
+next node pointer index 0
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+18 18
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase0
+size of internal node 1
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is0
+in the right sibling node
+right sibling node is min occ
+root key 20
+internal node size 0
+internal node size 1
+internal node size 2
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+24 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+26 26
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase0
+size of internal node 1
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is1
+size of left sibling is 3
+left sibling is greater than min occ
+root key value 24
+key to be shifted 22
+size of left sibling 2
+after insert into keys
+keys 24
+size of internal node key size 1
+after insert into treepointers
+internal node size 2
+after adding keys index and string 0 22
+left sibling node dumped
+internal node dumped
+internal node deleted
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+22 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+24 24
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+in the leaf node to delete a key
+node deleted 
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+22 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+26 26
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase0
+size of internal node 1
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is1
+size of left sibling is 2
+left sibling node is min occ
+root key is 22
+internal node size 1
+internal node size 2
+internal node size 0
+left sibling node dumped
+internal node deleted
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys3
+30 34
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase2
+size of internal node 3
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+32 34
+next node pointer index 1
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+left sibling is present
+left sibling has more than occupancy
+key to be shifted 32
+in the leaf node to delete a key
+node deleted 
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+..done
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+31 34
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase1
+size of internal node 2
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 2
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+34 34
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 3
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys2
+8 16
+next node pointer index 0
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+4 4
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+6 6
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase0
+size of internal node 1
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is1
+size of left sibling is 2
+left sibling node is min occ
+root key is 4
+internal node size 1
+internal node size 2
+internal node size 0
+left sibling node dumped
+internal node deleted
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is0
+in the right sibling node
+right sibling node is min occ
+root key 8
+internal node size 0
+internal node size 1
+internal node size 2
+before curr node dumping
+curr node dumped
+in the root node
+root node size 2
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys1
+16 16
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 0
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys2
+20 22
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 2
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys1
+16 16
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+28 28
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+34 34
+next node pointer index 0
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+right sibling is present
+right sibling with min occupancy
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+after merging node size 3
+before erase
+after erase
+ key size after erase0
+size of internal node 1
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is1
+size of left sibling is 3
+left sibling is greater than min occ
+root key value 28
+key to be shifted 22
+size of left sibling 2
+after insert into keys
+keys 28
+size of internal node key size 1
+after insert into treepointers
+internal node size 2
+after adding keys index and string 0 22
+left sibling node dumped
+internal node dumped
+internal node deleted
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+before curr node dumping
+curr node dumped
+in the root node
+root node size 2
+before deleting
+after deleting
+delete key function called in the root
+in the delete key function internal node
+internal node number of keys1
+16 16
+next node pointer index 1
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+22 22
+next node pointer index 0
+before delete function in the next node
+in the delete key function internal node
+internal node number of keys1
+20 20
+next node pointer index 1
+before delete function in the next node
+in the leaf node to delete a key
+node deleted 
+node got deleted
+checking underflow conditions in leaf node
+underflow occurs
+left sibling is present
+insert key function in leaf node
+leaf node is not full
+before dump
+key added successfully
+pointer to return -
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is0
+in the right sibling node
+right sibling node is min occ
+root key 22
+internal node size 0
+internal node size 1
+internal node size 2
+before curr node dumping
+curr node dumped
+node got deleted
+checking underflow conditions in internal node
+underflow in internal node and index is1
+size of left sibling is 3
+left sibling is greater than min occ
+root key value 16
+key to be shifted 12
+size of left sibling 2
+after insert into keys
+keys 16
+size of internal node key size 1
+after insert into treepointers
+internal node size 2
+after adding keys index and string 0 12
+left sibling node dumped
+internal node dumped
+internal node deleted
+before curr node dumping
+curr node dumped
+in the root node
+root node size 2
+before deleting
+after deleting
